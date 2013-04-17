@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Access Temporary constraint feature.
+ */
+
+include_once 'acc_temp_const.features.inc';
