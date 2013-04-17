@@ -1139,15 +1139,7 @@ function acc_temp_const_field_default_fields() {
     ),
     'field_instance' => array(
       'bundle' => 'temporary_constraint',
-      'default_value' => array(
-        0 => array(
-          'entity' => {
-            "item_id" : null,
-            "field_name" : "field_temp_constraint_impact",
-            "field_value" : { "und" : [ { "value" : "0" } ] },
-            "field_temp_cons_impact" : { "und" : [] }
-          },
-        ),
+      'default_value' => array(),
       ),
       'deleted' => '0',
       'description' => '',
