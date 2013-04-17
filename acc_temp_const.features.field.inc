@@ -1140,7 +1140,6 @@ function acc_temp_const_field_default_fields() {
     'field_instance' => array(
       'bundle' => 'temporary_constraint',
       'default_value' => array(),
-      ),
       'deleted' => '0',
       'description' => '',
       'display' => array(
