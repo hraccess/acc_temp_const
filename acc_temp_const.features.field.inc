@@ -204,7 +204,7 @@ function acc_temp_const_field_default_fields() {
           'view' => array(
             'args' => array(),
             'display_name' => 'entityreference_5',
-            'view_name' => 'impact',
+            'view_name' => 'acc_impacts',
           ),
         ),
         'target_type' => 'taxonomy_term',
