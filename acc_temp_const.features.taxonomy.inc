@@ -9,9 +9,9 @@
  */
 function acc_temp_const_taxonomy_default_vocabularies() {
   return array(
-    'temporary_constraint_type' => array(
+    'acc_temporary_constraint_type' => array(
       'name' => 'Temporary constraint type',
-      'machine_name' => 'temporary_constraint_type',
+      'machine_name' => 'acc_temporary_constraint_type',
       'description' => '',
       'hierarchy' => '0',
       'module' => 'taxonomy',

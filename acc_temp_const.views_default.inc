@@ -11,7 +11,7 @@ function acc_temp_const_views_default_views() {
   $export = array();
 
   $view = new view();
-  $view->name = 'temporary_constraint';
+  $view->name = 'acc_temporary_constraint';
   $view->description = '';
   $view->tag = 'default';
   $view->base_table = 'node';

@@ -1221,7 +1221,7 @@ function acc_temp_const_field_default_fields() {
       'settings' => array(
         'allowed_values' => array(
           0 => array(
-            'vocabulary' => 'temporary_constraint_type',
+            'vocabulary' => 'acc_temporary_constraint_type',
             'parent' => '0',
           ),
         ),

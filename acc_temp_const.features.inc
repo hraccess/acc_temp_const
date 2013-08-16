@@ -26,7 +26,7 @@ function acc_temp_const_views_api() {
  */
 function acc_temp_const_node_info() {
   $items = array(
-    'temporary_constraint' => array(
+    'acc_temporary_constraint' => array(
       'name' => t('Temporary Constraint'),
       'base' => 'node_content',
       'description' => '',
